@@ -44,14 +44,9 @@ public class MainDrive {
 //		numberArray = {60,50,40,30,20,10};  // 이런 문법은 불가!
 //		배열을 생성할 때에만 사용가능.
 		
-		System.out.println(numberArray.length);  // 6
+		System.out.println(numberArray.length);
 		
 		
-		int[][] twoDimenArray = new int[5][10];
-		
-		int[][] twoDimenArray2 = { {10, 20, 30} , {70, 80, 90} } ;
-		
-		System.out.println(twoDimenArray2.length);
 		
 		
 		
