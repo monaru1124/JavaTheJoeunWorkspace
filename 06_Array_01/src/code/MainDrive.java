@@ -51,10 +51,24 @@ public class MainDrive {
 		
 		int[][] twoDimenArray2 = { {10, 20, 30} , {70, 80, 90} } ;
 		
-		System.out.println(twoDimenArray2.length);
+		System.out.println(twoDimenArray2.length);  // 2
 		
 		
+//		일반 변수들은 데이터를 저장하고 출력하는 기본기능만 내장.
+//		int, double, boolean
+//		score1.    => 아무 기능 없음
 		
+//		포인터를 기반으로 한 "참조형 변수"들은 내장된 기능들이 존재.
+//		배열, String
+//		twoDimenArray.length 처럼 . 을 찍어서 가진 기능/변수를 이용하는게 가능.
+		
+//		System.out.println(String.format(format, args));
+		
+		String name = "조경진"; // 자바가 편의성을 위해 제공하는 일반변수처럼 사용하는 기능.
+		
+		// String 원래방법(실제사용x)
+		String name2 = new String();
+		name2 = "조경진";  
 		
 		
 	}
