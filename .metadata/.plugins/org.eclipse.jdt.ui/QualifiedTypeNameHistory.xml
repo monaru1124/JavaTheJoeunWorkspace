@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="code.User"/>
 <fullyQualifiedTypeName name="code.Book"/>
@@ -12,4 +10,13 @@
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="code.Lecture"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="code.datas.Dog"/>
+<fullyQualifiedTypeName name="code.bank_datas.Account"/>
+<fullyQualifiedTypeName name="code.datas.Animal"/>
+<fullyQualifiedTypeName name="code.RemoteTv"/>
+<fullyQualifiedTypeName name="code.Animal"/>
+<fullyQualifiedTypeName name="code.HomeKeeper"/>
+<fullyQualifiedTypeName name="code.Defencer"/>
 </qualifiedTypeNameHistroy>

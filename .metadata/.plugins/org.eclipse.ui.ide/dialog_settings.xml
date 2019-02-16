@@ -10,6 +10,8 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\eclipse_jung\workspace\OOP_Advanced_02_MultipleInheritance"/>
+			<item value="C:\eclipse_jung\workspace\OOP_Advanced_01_Inheritance"/>
 			<item value="C:\eclipse_jung\workspace\LottoTest_JAVA"/>
 			<item value="C:\eclipse_jung\workspace\BaseballGame_Java"/>
 		</list>
