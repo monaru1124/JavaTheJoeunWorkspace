@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\eclipse_jung\workspace\FileIO_01_Write"/>
+		<item value="C:\eclipse_jung\workspace\OOP_03_LectureManager"/>
+		<item value="C:\eclipse_jung\workspace\-20190126\05_Repeat_Test_03"/>
 		<item value="C:\eclipse_jung\workspace\Database_JDBC"/>
 		<item value="C:\eclipse_jung\workspace\20190223_PhoneBook"/>
 		<item value="C:\eclipse_jung\workspace\OOP_Interface_Example"/>
